@@ -1,0 +1,16 @@
+// temperature converter!
+
+//const variable 
+const kelvin = 293;
+
+// the value of celsius is the sum of 293-273
+const celsius = kelvin - 273;
+
+//the value of fahrenheit
+let fahrenheit = celsius * (9/5) + 32;
+
+// this peace of code will round the decimal of the amount of fahrenheit
+fahrenheit = Math.floor(fahrenheit);
+
+console.log(`The temperature is ${fahrenheit}
+degrees fahrenheit.`);
