@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to JavaScript Projects
 
 You can use the [editor on GitHub](https://github.com/rdefa001/JavaScript-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
