@@ -2,6 +2,6 @@
 
 Will be adding all javaScript projects to this repo 
 
-###  I learned working on this project:
+###  Things I learned working on these projects:
 
 
