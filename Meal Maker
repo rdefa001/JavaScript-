@@ -64,7 +64,7 @@ menu.addDishToCourse('mains', 'tofu', 4.00);
 
 menu.addDishToCourse('desserts', 'ice cream', 3.00);
 menu.addDishToCourse('desserts', 'coffee', 3.00);
-menu.addDishToCourse('desserts', 'cake', 3.20);
+menu.addDishToCourse('desserts', 'cake', 3.25);
 
 
 const meal = menu.generateRandomMeal();
