@@ -7,4 +7,4 @@ fetch('https://api-to-call.com/endpoint').then(response => {
   console.log(networkError.message);
 }).then(jsonResponse => {
   return jsonResponse;
-})
+});
