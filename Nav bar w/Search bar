@@ -28,7 +28,7 @@ body {
 .right {
  flex: 65%;
  padding: 15px;
- background-color: white;
+ background-color:  #B0E0E6;
 }
 
 #mySearch {
