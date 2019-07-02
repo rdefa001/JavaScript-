@@ -15,7 +15,7 @@ $(document).ready(function(){
 
 <button>Hide</button>
 
-<p>This is a paragraph with little content.</p>
+<p>This is a paragraph with little .</p>
 <p>This is another small paragraph.</p>
 
 </body>
