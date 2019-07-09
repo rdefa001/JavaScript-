@@ -1,4 +1,4 @@
-let userName ='Rapha'
+let userName ='Raph'
 userName ? console.log('Hello, Jane!') : console.log('Hello!')
 
 let userQuestion = 'will I get better at JavaScript one day?';
