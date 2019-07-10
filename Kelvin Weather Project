@@ -7,7 +7,7 @@ const kelvin = 293;
 const celsius = kelvin - 273;
 
 //the value of fahrenheit
-let fahrenheit = celsius * (9/5) + 320;
+let fahrenheit = celsius * (9/5) + 32;
 
 // this peace of code will round the decimal of the amount of fahrenheit
 fahrenheit = Math.floor(fahrenheit);
