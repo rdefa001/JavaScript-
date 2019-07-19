@@ -20,7 +20,7 @@ $(document).ready(function(){
 <p>This is another paragraph.</p>
 
 
-<button> CLick m to hide paragraphs</button>
+<button> CLick me to hide paragraphs</button>
 
 </body>
 </html>
