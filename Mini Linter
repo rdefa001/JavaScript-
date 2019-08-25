@@ -10,7 +10,7 @@ let betterWords = storyWords.filter(function(word){
    return !unnecessaryWords.includes(word)
  });
 
-let reallyCount = 0;
+
 let veryCount = 0;
 let basicallyCount = 0;
 
