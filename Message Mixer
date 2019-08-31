@@ -1,7 +1,7 @@
 const MessageMixer = {}; 
 
 function countCharacter (inputString, inputCharacter) {
-  let count = 1;
+  let count = 0;
   let string = inputString.toLowerCase();
   let character = inputCharacter.toLowerCase();
     for (let i = 0; i < string.length; i++) {
