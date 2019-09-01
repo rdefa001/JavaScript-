@@ -68,7 +68,7 @@ menu.addDishToCourse('desserts', 'cake', 3.25);
 
 
 const meal = menu.generateRandomMeal();
-console.log(meal);
+console.log();
 
 
 
