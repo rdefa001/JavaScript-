@@ -4,7 +4,7 @@ userName ? console.log('Hello, Jane!') : console.log('Hello!')
 let userQuestion = 'will I get better at JavaScript one day?';
 console.log(`The user wants to know ${userQuestion}`);
 
- let randomNumber = Math.floor(Math.random() * 8);
+ let randomNumber = Math.floor(Math.random() * 19);
  let eightball = '';
 
 switch (randomNumber)  {
