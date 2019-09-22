@@ -1,4 +1,4 @@
-const  = {}; 
+const MessageMixer = {}; 
 
 function countCharacter (inputString, inputCharacter) {
   let count = 0;
