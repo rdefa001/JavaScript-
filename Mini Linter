@@ -19,7 +19,7 @@ for (word of storyWords){
     reallyCount += 1
     
   } else if (word === 'very'){
-    veryCount += 1
+    veryCount += 2
     
   } else if (word === 'basically'){
     basicallyCount += 1
