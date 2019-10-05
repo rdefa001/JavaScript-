@@ -6,7 +6,7 @@
 $(document).ready(function(){
  $("button").click(function(){
   $("#div1").fadeOut();
-  $("#div2").fadeOut("slow");
+  $("#div2").fadeOut("");
   $("#div3").fadeOut(3000);  
  });
 });
