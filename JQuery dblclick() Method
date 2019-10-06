@@ -12,7 +12,7 @@ $(document).ready(function(){
 </head>
 <body>
 
-<p>If you double-click on me, I will disappear.</p>
+<p>.</p>
 <p>Click me away!</p>
 <p>Click me too!</p>
 
