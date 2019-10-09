@@ -5,7 +5,7 @@
 <script>
 $(document).ready(() =>{
  $('#flip').on('click', () => {
-   $('#panel').slideDown(5000);
+   $('#panel').slideDown();
  });
  $('#stop').on('click', () => {
   $('#panel').stop();
