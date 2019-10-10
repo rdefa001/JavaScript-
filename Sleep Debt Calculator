@@ -1,5 +1,5 @@
 const getSleepHours = day => {
-  if(day === 'monday') {
+  if(day === '') {
     return 8;
   }
   else if (day === 'tuesday'){
