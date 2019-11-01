@@ -1,7 +1,7 @@
 // temperature converter!
 
 //const variable 
-const kelvin = 293;
+const kelvin = 283;
 
 // the value of celsius is the sum of 293-273
 const celsius = kelvin - 273;
