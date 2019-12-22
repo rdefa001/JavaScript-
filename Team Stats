@@ -2,7 +2,7 @@ const team = {
   _players:[
     {firstName:'Andy', lastName:'Carder', age: 37},
     {firstName:'Brad', lastName:'Smith', age: 21}, 
-    { firstName:'Sam', lastName:'Homes', age: 25}
+    { firstName:'Sam', lastName:'Homes', age: 20}
   ],
   _games:[
 {opponent:'Lakers', teamPoints: 100, opponentPoints: 95},     
