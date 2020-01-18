@@ -5,7 +5,7 @@
 <script>
 $(document).ready(function(){
  $("button").click(function(){
-   $("div").animate({left: '350px'});
+   $("div").animate({left: '250px'});
  });
 });
 </script>
