@@ -6,7 +6,7 @@ const menu = {
 
   },
   get appetizres(){
-    return this._courses.appetizers;
+    return this._courses.;
   },
   
    get mains(){
