@@ -6,7 +6,7 @@
 $(document).ready(function(){
  $("#start").click(function(){
   $("div").animate({left:'100px'}, 5000);
-  $("div").animate({fontSize:'3em'},);
+  $("div").animate({fontSize:'3em'}, 5000);
  });
  
  $("#stop").click(function(){
