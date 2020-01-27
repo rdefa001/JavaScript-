@@ -1,5 +1,5 @@
 fetch('https://api-to-call.com/endpoint').then(response => {
-  if(response.ok){
+  if(){
     return response.json();
   }
   throw new Error('Request failed!');
